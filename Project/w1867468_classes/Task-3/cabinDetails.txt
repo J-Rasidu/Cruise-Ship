@@ -1,0 +1,50 @@
+<------Cruise-Ship-Cabin-Details------>
+
+Jeewana Rasidu : $ 12000.0 ( Cabin 1 )
+Jude Ranidu : $ 13000.0 ( Cabin 1 )
+-  : $ 0.0 ( Cabin 1 )
+
+Prasansa Ramidu : $ 13000.0 ( Cabin 2 )
+-  : $ 0.0 ( Cabin 2 )
+-  : $ 0.0 ( Cabin 2 )
+
+Mary Jane : $ 13000.0 ( Cabin 3 )
+-  : $ 0.0 ( Cabin 3 )
+-  : $ 0.0 ( Cabin 3 )
+
+Spider Man : $ 13000.0 ( Cabin 4 )
+-  : $ 0.0 ( Cabin 4 )
+-  : $ 0.0 ( Cabin 4 )
+
+KL Rahul : $ 15000.0 ( Cabin 5 )
+-  : $ 0.0 ( Cabin 5 )
+-  : $ 0.0 ( Cabin 5 )
+
+Peter Parker : $ 12000.0 ( Cabin 6 )
+-  : $ 0.0 ( Cabin 6 )
+-  : $ 0.0 ( Cabin 6 )
+
+MS Dhoni : $ 45000.0 ( Cabin 7 )
+-  : $ 0.0 ( Cabin 7 )
+-  : $ 0.0 ( Cabin 7 )
+
+David Miller : $ 10000.0 ( Cabin 8 )
+-  : $ 0.0 ( Cabin 8 )
+-  : $ 0.0 ( Cabin 8 )
+
+Joe Root : $ 67000.0 ( Cabin 9 )
+-  : $ 0.0 ( Cabin 9 )
+-  : $ 0.0 ( Cabin 9 )
+
+Roy Lakshman : $ 14000.0 ( Cabin 10 )
+-  : $ 0.0 ( Cabin 10 )
+-  : $ 0.0 ( Cabin 10 )
+
+Pramudini Perera : $ 15000.0 ( Cabin 11 )
+-  : $ 0.0 ( Cabin 11 )
+-  : $ 0.0 ( Cabin 11 )
+
+Fr Gamunu : $ 15000.0 ( Cabin 12 )
+-  : $ 0.0 ( Cabin 12 )
+-  : $ 0.0 ( Cabin 12 )
+
